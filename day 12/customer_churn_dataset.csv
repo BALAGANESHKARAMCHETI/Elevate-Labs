@@ -1,0 +1,301 @@
+CustomerID,Age,Gender,Tenure,MonthlyCharges,ContractType,InternetService,TotalCharges,Churn
+1001,62,Female,1,84.91,Month-to-Month,Fiber,5158.55,No
+1002,65,Female,6,20.52,Month-to-Month,DSL,1233.58,Yes
+1003,18,Female,4,117.02,Month-to-Month,DSL,7132.7,No
+1004,21,Male,8,86.39,One Year,None,6268.67,No
+1005,21,Female,6,49.31,Month-to-Month,None,5839.03,No
+1006,57,Male,6,40.04,Two Year,DSL,903.0,No
+1007,27,Male,9,112.57,Month-to-Month,Fiber,3471.67,No
+1008,37,Female,1,50.93,One Year,DSL,1755.77,No
+1009,39,Female,9,60.32,Month-to-Month,None,6664.28,No
+1010,68,Female,4,83.31,Two Year,None,5753.96,No
+1011,54,Male,7,109.07,Two Year,Fiber,7123.08,No
+1012,41,Female,4,63.26,Two Year,DSL,7749.31,Yes
+1013,24,Female,3,112.82,One Year,None,6310.61,Yes
+1014,42,Male,8,79.21,Two Year,Fiber,7956.75,Yes
+1015,42,Female,1,63.18,Month-to-Month,None,,Yes
+1016,30,Male,4,79.28,Month-to-Month,Fiber,778.47,No
+1017,19,Female,1,55.45,Two Year,None,606.89,No
+1018,56,Female,4,85.7,One Year,None,3065.78,No
+1019,57,Male,7,85.23,Two Year,DSL,6676.04,No
+1020,41,Male,2,102.17,Month-to-Month,Fiber,6996.01,No
+1021,64,Female,3,60.28,Month-to-Month,Fiber,7706.09,No
+1022,42,Female,5,23.76,Two Year,None,988.41,No
+1023,35,Male,2,118.46,One Year,DSL,834.28,No
+1024,55,Female,4,64.81,Month-to-Month,None,7349.63,No
+1025,43,Female,3,113.76,One Year,None,2787.85,No
+1026,31,Female,5,87.2,Two Year,None,4684.91,No
+1027,26,Female,8,46.67,Month-to-Month,Fiber,7868.34,Yes
+1028,27,Female,5,76.41,Month-to-Month,DSL,3503.36,Yes
+1029,38,Female,5,115.69,Month-to-Month,None,5494.04,No
+1030,69,Male,2,31.35,Month-to-Month,None,3506.6,No
+1031,34,Male,3,47.22,Month-to-Month,None,6261.46,No
+1032,69,Female,8,28.21,Month-to-Month,Fiber,4457.86,Yes
+1033,23,Male,3,96.53,Two Year,None,2281.42,No
+1034,33,Female,4,22.17,Month-to-Month,Fiber,2534.8,No
+1035,65,Male,8,33.73,Month-to-Month,Fiber,2435.44,Yes
+1036,18,Male,7,46.06,Two Year,Fiber,4492.4,No
+1037,36,Female,7,107.11,Month-to-Month,Fiber,5773.92,No
+1038,53,Female,3,37.94,Month-to-Month,Fiber,7619.6,No
+1039,42,Female,4,63.33,Two Year,DSL,5705.66,No
+1040,67,Female,7,52.51,Month-to-Month,Fiber,6358.95,No
+1041,69,Female,1,78.34,Month-to-Month,Fiber,1766.95,No
+1042,47,Male,9,113.65,Two Year,None,3305.47,Yes
+1043,37,Female,1,114.08,Month-to-Month,DSL,3603.35,No
+1044,37,Female,8,25.25,Two Year,DSL,5647.85,Yes
+1045,32,Female,7,79.62,Month-to-Month,None,2719.19,Yes
+1046,57,Male,6,109.18,Month-to-Month,Fiber,2774.69,Yes
+1047,50,Male,7,98.09,Two Year,DSL,3169.17,Yes
+1048,19,Female,6,41.15,One Year,Fiber,6577.27,No
+1049,27,Female,3,96.5,Two Year,None,4831.93,No
+1050,50,Male,8,38.91,One Year,DSL,,No
+1051,49,Female,2,109.88,One Year,Fiber,,No
+1052,28,Female,3,20.89,Month-to-Month,DSL,3284.65,Yes
+1053,41,Female,3,29.02,Two Year,DSL,6249.43,No
+1054,53,Male,6,81.92,One Year,Fiber,5665.13,No
+1055,29,Male,7,58.24,One Year,Fiber,5809.87,No
+1056,68,Male,5,29.66,One Year,DSL,6254.08,No
+1057,46,Female,3,118.49,One Year,None,2653.65,No
+1058,52,Male,3,109.66,Two Year,DSL,4611.92,No
+1059,18,Male,2,47.11,Month-to-Month,None,,No
+1060,18,Male,1,67.32,Month-to-Month,DSL,6047.24,No
+1061,54,Male,1,67.98,One Year,Fiber,7676.53,No
+1062,23,Male,3,70.84,Month-to-Month,None,2584.92,No
+1063,56,Male,9,116.73,One Year,None,6449.61,Yes
+1064,58,Female,4,30.0,Month-to-Month,DSL,5449.78,Yes
+1065,35,Female,1,23.97,Month-to-Month,DSL,4851.78,No
+1066,33,Female,9,68.37,Two Year,None,6311.6,No
+1067,22,Male,9,65.83,One Year,Fiber,7580.24,No
+1068,59,Male,2,43.53,Two Year,None,,No
+1069,60,Female,1,25.89,Month-to-Month,None,1605.5,No
+1070,49,Female,6,32.38,One Year,Fiber,6172.15,No
+1071,19,Female,9,105.68,One Year,Fiber,1128.44,No
+1072,19,Male,3,59.97,One Year,DSL,4370.93,Yes
+1073,57,Female,4,58.14,One Year,DSL,2148.96,Yes
+1074,59,Male,6,22.2,One Year,DSL,2557.22,No
+1075,53,Female,4,57.48,One Year,Fiber,5763.8,No
+1076,56,Male,9,86.16,Month-to-Month,None,726.45,No
+1077,29,Female,7,82.54,One Year,Fiber,7049.9,No
+1078,64,Female,5,111.4,Month-to-Month,DSL,3833.59,Yes
+1079,36,Female,7,87.18,Two Year,None,4267.95,Yes
+1080,45,Male,4,52.41,Month-to-Month,DSL,4550.36,No
+1081,18,Female,7,51.62,Two Year,None,5341.58,Yes
+1082,32,Male,3,103.33,One Year,Fiber,3086.42,No
+1083,53,Male,7,97.58,Month-to-Month,DSL,1258.31,No
+1084,30,Female,6,48.12,Month-to-Month,Fiber,2887.84,No
+1085,60,Male,6,91.39,Month-to-Month,Fiber,1761.07,No
+1086,38,Female,5,76.16,Two Year,Fiber,4671.0,Yes
+1087,29,Male,7,59.97,One Year,None,2885.21,No
+1088,22,Male,6,73.09,Month-to-Month,Fiber,7685.5,Yes
+1089,24,Female,2,28.52,Two Year,Fiber,7743.01,Yes
+1090,22,Male,4,86.57,Month-to-Month,None,5150.94,No
+1091,65,Male,4,22.96,Month-to-Month,Fiber,5131.23,Yes
+1092,21,Male,9,108.93,Month-to-Month,Fiber,7890.34,No
+1093,30,Male,6,88.21,Month-to-Month,Fiber,7154.62,No
+1094,54,Male,6,109.13,Two Year,None,6238.02,No
+1095,58,Male,7,20.12,One Year,None,2851.93,No
+1096,32,Male,1,113.72,One Year,DSL,3241.54,No
+1097,33,Male,8,115.83,Month-to-Month,Fiber,2009.5,No
+1098,38,Male,6,99.63,Two Year,None,4153.61,Yes
+1099,53,Female,2,119.21,One Year,Fiber,7927.76,No
+1100,41,Male,6,55.52,One Year,None,7341.13,No
+1101,33,Female,7,104.83,Month-to-Month,None,1387.62,No
+1102,31,Female,7,97.07,Month-to-Month,None,688.93,Yes
+1103,39,Male,9,92.05,Two Year,DSL,7239.78,No
+1104,66,Female,8,83.34,One Year,Fiber,4528.78,No
+1105,67,Female,6,50.74,Month-to-Month,None,2001.42,No
+1106,23,Female,4,73.73,Two Year,Fiber,5552.4,No
+1107,59,Male,3,47.46,Two Year,None,5331.67,Yes
+1108,53,Male,4,20.87,Two Year,Fiber,1415.64,No
+1109,18,Female,3,22.49,One Year,Fiber,2447.0,Yes
+1110,49,Female,6,34.43,One Year,None,950.58,Yes
+1111,23,Female,5,71.38,One Year,Fiber,2073.95,No
+1112,48,Female,2,42.27,Two Year,DSL,1492.29,No
+1113,18,Male,6,56.95,Two Year,DSL,1949.27,Yes
+1114,67,Female,9,25.51,Month-to-Month,Fiber,5641.0,No
+1115,68,Male,4,111.12,Month-to-Month,Fiber,871.25,No
+1116,54,Female,6,108.5,One Year,None,1263.91,No
+1117,52,Male,9,109.73,One Year,None,1506.3,Yes
+1118,66,Male,5,53.22,Month-to-Month,Fiber,2874.06,Yes
+1119,47,Male,2,91.29,One Year,Fiber,2740.63,No
+1120,21,Male,8,62.69,Month-to-Month,Fiber,2412.98,Yes
+1121,52,Female,9,50.17,Month-to-Month,Fiber,6129.02,No
+1122,60,Female,2,27.04,Month-to-Month,DSL,7985.17,Yes
+1123,31,Female,3,62.18,Two Year,Fiber,4504.83,Yes
+1124,66,Female,2,58.83,One Year,None,7581.52,No
+1125,57,Female,2,36.04,Two Year,DSL,3474.58,Yes
+1126,39,Male,8,55.02,One Year,Fiber,1300.12,No
+1127,27,Female,6,29.56,Two Year,None,3565.8,No
+1128,18,Male,1,107.11,One Year,DSL,2720.96,Yes
+1129,28,Female,5,86.76,One Year,Fiber,4200.55,No
+1130,68,Male,2,39.27,Month-to-Month,Fiber,5427.83,Yes
+1131,61,Female,2,111.81,Two Year,Fiber,3957.88,No
+1132,41,Male,7,77.97,Two Year,Fiber,7513.7,No
+1133,20,Female,7,65.59,One Year,DSL,7135.74,No
+1134,52,Female,1,84.24,Two Year,None,5764.83,Yes
+1135,53,Male,3,45.4,One Year,Fiber,4172.64,No
+1136,48,Male,4,75.11,One Year,DSL,1487.65,No
+1137,21,Male,8,33.19,Month-to-Month,DSL,3477.6,Yes
+1138,36,Female,3,40.05,One Year,None,5783.01,No
+1139,64,Female,5,71.41,Two Year,DSL,2636.64,No
+1140,53,Female,1,29.75,Month-to-Month,DSL,1279.91,No
+1141,38,Male,7,105.19,One Year,None,7309.24,Yes
+1142,35,Male,3,59.55,Month-to-Month,DSL,5817.88,Yes
+1143,68,Female,5,43.31,Month-to-Month,DSL,5114.57,Yes
+1144,45,Male,8,78.54,One Year,None,6443.74,No
+1145,32,Male,4,94.68,Two Year,DSL,6767.35,No
+1146,59,Female,1,80.9,One Year,None,4125.94,No
+1147,19,Male,6,77.9,One Year,Fiber,7108.91,No
+1148,54,Male,5,37.01,One Year,Fiber,7373.14,No
+1149,28,Male,1,88.64,One Year,Fiber,2536.63,Yes
+1150,40,Female,3,117.68,One Year,Fiber,5056.59,No
+1151,61,Male,4,80.86,Two Year,DSL,4449.38,No
+1152,58,Female,2,52.84,Month-to-Month,Fiber,4534.59,No
+1153,29,Male,8,100.27,Two Year,None,7532.47,Yes
+1154,20,Female,2,103.64,One Year,None,2788.92,No
+1155,69,Male,4,61.53,Month-to-Month,None,7875.75,No
+1156,34,Female,5,61.56,Month-to-Month,None,7265.98,No
+1157,50,Female,2,113.66,Month-to-Month,Fiber,3940.42,Yes
+1158,18,Male,8,92.22,Two Year,None,6630.9,No
+1159,56,Male,5,23.29,Two Year,Fiber,6267.85,Yes
+1160,37,Female,1,62.59,Two Year,None,5584.21,No
+1161,64,Male,3,29.39,One Year,None,2898.75,No
+1162,60,Female,8,117.85,Two Year,Fiber,1973.38,No
+1163,69,Male,5,77.52,Two Year,Fiber,5536.46,No
+1164,58,Female,1,84.37,Two Year,DSL,6822.3,No
+1165,31,Male,3,56.45,Month-to-Month,DSL,621.9,No
+1166,48,Male,7,86.77,Month-to-Month,DSL,5321.03,No
+1167,42,Male,3,77.18,One Year,None,3821.55,No
+1168,20,Male,5,97.47,Month-to-Month,None,7235.66,No
+1169,21,Female,6,110.01,One Year,None,2911.05,Yes
+1170,48,Female,5,60.43,Month-to-Month,DSL,4056.39,Yes
+1171,52,Male,5,109.53,One Year,DSL,4360.75,No
+1172,61,Female,9,26.51,One Year,DSL,1553.3,No
+1173,31,Male,2,88.55,Month-to-Month,None,5846.69,Yes
+1174,66,Female,6,43.11,Month-to-Month,Fiber,,No
+1175,58,Female,8,73.89,Two Year,DSL,934.32,No
+1176,26,Male,1,97.3,Two Year,Fiber,2685.42,No
+1177,37,Female,2,94.66,One Year,None,785.34,No
+1178,49,Male,4,92.14,One Year,DSL,7674.08,Yes
+1179,26,Male,3,68.29,One Year,None,5503.77,No
+1180,44,Male,9,39.4,Month-to-Month,Fiber,7731.5,No
+1181,20,Male,3,40.56,Month-to-Month,None,4486.21,No
+1182,21,Male,5,73.55,Two Year,None,6515.51,Yes
+1183,62,Female,9,63.78,Month-to-Month,DSL,3308.1,No
+1184,32,Female,3,117.5,One Year,Fiber,3153.64,Yes
+1185,50,Male,9,50.08,Two Year,DSL,3337.01,No
+1186,22,Male,8,27.9,Month-to-Month,None,5433.97,No
+1187,21,Male,9,92.69,One Year,None,3195.9,Yes
+1188,63,Male,3,117.54,Month-to-Month,Fiber,7252.76,No
+1189,29,Female,4,98.21,Month-to-Month,None,7874.56,No
+1190,40,Female,4,44.7,Month-to-Month,DSL,728.2,No
+1191,31,Male,7,23.66,One Year,Fiber,1952.17,No
+1192,63,Male,1,60.69,One Year,None,1341.87,No
+1193,29,Female,4,107.78,Month-to-Month,DSL,817.73,No
+1194,34,Male,7,63.2,One Year,DSL,2208.06,No
+1195,42,Female,4,48.41,Month-to-Month,Fiber,3850.95,No
+1196,47,Female,7,113.53,Two Year,None,6777.43,No
+1197,39,Female,4,97.23,One Year,DSL,2163.68,No
+1198,64,Female,3,81.1,Month-to-Month,Fiber,4204.59,Yes
+1199,43,Female,3,20.27,Month-to-Month,DSL,7472.14,Yes
+1200,34,Female,3,113.15,Month-to-Month,None,5504.11,No
+1201,37,Female,7,87.38,Two Year,DSL,6485.59,No
+1202,51,Female,5,42.45,One Year,None,4632.45,Yes
+1203,58,Female,7,22.48,Month-to-Month,DSL,7853.5,No
+1204,50,Female,1,20.75,Month-to-Month,None,4914.97,No
+1205,54,Female,5,112.74,Month-to-Month,DSL,841.33,No
+1206,24,Male,3,89.32,One Year,DSL,,No
+1207,39,Male,2,90.51,Two Year,Fiber,3535.8,No
+1208,49,Female,7,79.61,Two Year,None,5009.58,No
+1209,31,Female,2,73.72,Month-to-Month,DSL,6289.48,No
+1210,25,Female,8,65.56,Month-to-Month,Fiber,3598.15,No
+1211,42,Female,6,80.02,One Year,DSL,5825.44,No
+1212,33,Male,7,85.41,Month-to-Month,Fiber,6424.02,Yes
+1213,59,Male,2,57.3,Two Year,DSL,2879.45,No
+1214,36,Female,7,86.82,One Year,Fiber,7844.53,No
+1215,58,Male,7,65.69,One Year,None,5372.42,No
+1216,33,Male,7,28.51,Month-to-Month,DSL,7107.49,No
+1217,29,Female,7,43.32,Two Year,None,4669.53,Yes
+1218,56,Male,3,28.14,One Year,None,6062.02,No
+1219,65,Female,6,52.2,One Year,Fiber,6279.08,No
+1220,47,Male,3,81.13,Month-to-Month,None,7311.86,No
+1221,19,Female,3,56.76,Two Year,Fiber,,No
+1222,49,Male,4,92.62,Two Year,Fiber,4687.13,No
+1223,62,Male,3,87.81,One Year,Fiber,3712.84,Yes
+1224,42,Female,4,34.47,Two Year,Fiber,7423.69,No
+1225,42,Male,9,36.8,Month-to-Month,Fiber,1288.21,No
+1226,21,Male,6,26.44,Month-to-Month,DSL,7869.3,No
+1227,36,Male,5,46.43,One Year,DSL,7065.88,No
+1228,65,Male,6,54.84,One Year,None,,No
+1229,21,Male,2,28.82,Two Year,DSL,4182.25,No
+1230,60,Female,6,80.22,Month-to-Month,Fiber,5881.7,No
+1231,30,Male,9,91.44,Two Year,Fiber,,No
+1232,56,Female,3,35.72,Two Year,DSL,7298.71,No
+1233,53,Male,6,54.21,One Year,None,6498.99,No
+1234,40,Male,7,92.72,Month-to-Month,None,2831.98,Yes
+1235,23,Female,5,86.33,Month-to-Month,DSL,4238.26,No
+1236,41,Female,1,105.45,Two Year,Fiber,5763.39,No
+1237,61,Female,9,75.46,Month-to-Month,Fiber,1538.28,Yes
+1238,50,Female,6,22.58,Month-to-Month,None,1954.93,Yes
+1239,29,Male,6,25.73,Two Year,DSL,4107.82,No
+1240,58,Male,6,28.01,One Year,Fiber,2736.84,No
+1241,38,Female,2,71.71,One Year,None,6969.19,No
+1242,28,Male,1,95.51,One Year,None,4897.08,No
+1243,61,Female,1,23.23,Two Year,DSL,3114.99,Yes
+1244,55,Female,1,65.67,Month-to-Month,None,6866.25,No
+1245,46,Female,1,102.48,Two Year,Fiber,6536.59,Yes
+1246,65,Female,1,86.86,Two Year,None,7987.66,No
+1247,58,Male,8,74.59,One Year,None,6854.81,No
+1248,20,Male,7,78.88,Month-to-Month,None,3608.42,No
+1249,45,Female,4,109.65,One Year,DSL,1456.24,No
+1250,37,Male,6,77.51,Month-to-Month,Fiber,6804.81,Yes
+1251,43,Male,5,62.18,Month-to-Month,None,948.18,No
+1252,41,Female,4,90.3,One Year,DSL,3127.03,No
+1253,69,Female,5,55.72,One Year,None,7398.03,No
+1254,64,Female,6,117.29,Two Year,Fiber,7705.75,Yes
+1255,38,Male,2,107.23,Month-to-Month,None,5304.23,No
+1256,47,Male,4,35.67,Month-to-Month,DSL,5664.86,Yes
+1257,21,Male,7,88.41,Month-to-Month,None,818.41,No
+1258,53,Female,8,23.41,Month-to-Month,None,4358.6,No
+1259,57,Female,5,108.52,Month-to-Month,None,4601.51,Yes
+1260,27,Male,1,104.49,Two Year,DSL,3050.76,No
+1261,27,Female,1,71.01,Month-to-Month,None,1014.48,No
+1262,59,Male,8,32.77,Two Year,None,2216.81,No
+1263,41,Male,4,82.15,One Year,DSL,3184.88,No
+1264,21,Male,4,43.93,Two Year,DSL,3763.56,No
+1265,64,Female,1,83.09,Two Year,Fiber,4931.95,No
+1266,44,Female,1,89.37,Two Year,DSL,5917.94,No
+1267,68,Male,5,30.63,One Year,None,2882.24,No
+1268,62,Female,5,67.69,Month-to-Month,None,2967.15,Yes
+1269,21,Male,6,78.56,Two Year,DSL,647.69,No
+1270,49,Female,9,45.36,One Year,Fiber,806.56,No
+1271,27,Male,9,40.1,Two Year,DSL,2433.66,Yes
+1272,28,Male,1,83.79,Two Year,Fiber,6051.84,Yes
+1273,45,Female,2,96.07,One Year,DSL,5212.35,No
+1274,63,Male,6,55.91,Two Year,Fiber,6273.42,Yes
+1275,25,Male,7,90.89,Two Year,Fiber,6266.9,No
+1276,57,Male,2,78.74,Month-to-Month,None,6924.26,No
+1277,39,Male,5,100.96,One Year,Fiber,5902.39,Yes
+1278,51,Male,1,40.41,Two Year,None,7842.58,Yes
+1279,62,Female,5,99.64,One Year,DSL,7241.19,No
+1280,52,Female,8,46.64,One Year,DSL,4900.38,Yes
+1281,52,Female,8,49.83,Month-to-Month,DSL,4911.18,Yes
+1282,42,Female,8,117.82,Month-to-Month,DSL,757.0,No
+1283,51,Female,7,24.6,Month-to-Month,DSL,7988.95,No
+1284,23,Female,3,38.98,Two Year,None,1486.82,No
+1285,58,Female,7,72.09,Two Year,DSL,6052.6,No
+1286,54,Female,1,57.6,Two Year,Fiber,6657.61,No
+1287,18,Male,3,44.21,Two Year,None,3297.91,No
+1288,29,Male,8,88.46,Two Year,Fiber,1976.39,No
+1289,52,Male,8,86.92,Two Year,None,1240.7,Yes
+1290,23,Male,3,116.37,One Year,Fiber,6114.55,No
+1291,34,Female,7,107.86,One Year,None,3894.9,No
+1292,26,Female,2,119.74,Month-to-Month,DSL,5852.88,No
+1293,19,Female,4,56.29,Two Year,None,7365.56,Yes
+1294,35,Female,8,24.52,One Year,None,1599.38,No
+1295,66,Male,1,52.53,Month-to-Month,Fiber,7393.78,No
+1296,53,Female,6,69.69,Month-to-Month,None,3587.2,No
+1297,45,Male,5,37.22,Month-to-Month,None,2789.5,No
+1298,58,Male,6,28.51,Month-to-Month,DSL,7572.97,No
+1299,54,Female,6,65.27,One Year,Fiber,7929.89,No
+1300,66,Female,4,113.27,One Year,None,1991.69,No
